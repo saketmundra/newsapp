@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 1347,
+    "articles": [
+        {
+        "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+        },
+        "author": "Jon Porter",
+        "title": "Pixel Tablet could include support for third-party styluses",
+        "description": "Google’s upcoming Pixel Tablet might support the cross-manufacturer USI (Universal Stylus Initiative) standard. It’s appeared in the USI’s list of certified products, meaning it could be used with third-party styluses.",
+        "url": "https://www.theverge.com/2022/5/30/23147251/usi-universal-stylus-initiative-google-pixel-tablet",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/y9oGV4LGiIhOSnuHMtFXffQGLQM=/0x66:920x548/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23596627/image.png",
+        "publishedAt": "2022-05-30T10:37:06Z",
+        "content": "A mysterious Google tablet has appeared in the USIs certification database\r\nAn early image of Googles upcoming tablet, released earlier this month.\r\nImage: Google\r\nGoogles upcoming Pixel Tablet might… [+1577 chars]"
+        },
+        {
+        "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+        },
+        "author": "Jeremy Reimer",
+        "title": "Remembering Apple’s Newton, 30 years on",
+        "description": "On its 30th anniversary, we look at the groundbreaking product's enduring legacy.",
+        "url": "https://arstechnica.com/gadgets/2022/05/remembering-apples-newton-30-years-on/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/Screen-Shot-2022-05-26-at-3.30.13-PM-760x380.png",
+        "publishedAt": "2022-05-30T11:35:04Z",
+        "content": "1 with 1 posters participating\r\nThirty years ago, on May 29, 1992, Apple announced its most groundbreaking and revolutionary product yet, the Newton MessagePad. It was released to great fanfare a yea… [+3495 chars]"
+        },
+       {
+        "source": {
+        "id": "reuters",
+        "name": "Reuters"
+        },
+        "author": null,
+        "title": "In the race against time to cut emissions, companies' supply chains are key - Reuters",
+        "description": "The question of how the hundreds of companies that have set net-zero commitments are actually going to deliver on them has taken on greater urgency in the wake of the UK Met Office’s recent assessment that there is an even chance global temperatures will over…",
+        "url": "https://www.reuters.com/business/sustainable-business/race-against-time-cut-emissions-companies-supply-chains-are-key-2022-05-30/",
+        "urlToImage": "https://www.reuters.com/resizer/68spkKpLlxqECZr5d73QJelUUiw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RLL7BRBVPVNSTM6RUUF5X7GCFM.jpg",
+        "publishedAt": "2022-05-30T11:16:00Z",
+        "content": "May 26 - The question of how the hundreds of companies that have set net-zero commitments are actually going to deliver on them has taken on greater urgency in the wake of the UK Met Offices recent a… [+11783 chars]"
+        },
+       {
+        "source": {
+        "id": null,
+        "name": "MacRumors"
+        },
+        "author": "Tim Hardwick",
+        "title": "Apple Fails in Bid to Dismiss Amended Cydia Creator's Antitrust Lawsuit",
+        "description": "Apple has lost a bid to dismiss an antitrust lawsuit filed against it by Jay Freeman, creator of an alternative App Store known as Cydia for \"jailbroken\" iPhones and iPads. \n\n\n\n\n\nFreeman sued Apple in late 2020, alleging that Apple has an illegal monopoly ove…",
+        "url": "https://www.macrumors.com/2022/05/30/judge-allows-cydia-lawsuit-against-apple/",
+        "urlToImage": "https://images.macrumors.com/t/apia8xtdQ_bCjwxSU3cIKEsCz9E=/2500x/article-new/2020/12/cydia-vs-apple-feature.jpg",
+        "publishedAt": "2022-05-30T09:46:17Z",
+        "content": "Apple has lost a bid to dismiss an antitrust lawsuit filed against it by Jay Freeman, creator of an alternative App Store known as Cydia for \"jailbroken\" iPhones and iPads. \r\nFreeman sued Apple in la… [+2032 chars]"
+        },
+       {
+        "source": {
+        "id": null,
+        "name": "CNET"
+        },
+        "author": "Carrie Mihalcik",
+        "title": "iOS 16 Could Bring Always-on Lock Screen to Future iPhones, Report Says - CNET",
+        "description": "Apple's newest operating system is expected to be unveiled at WWDC.",
+        "url": "https://www.cnet.com/tech/services-and-software/ios-16-could-bring-always-on-lock-screen-to-future-iphones-report-says/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/b3cbda52042aac5ba6d56ac2121aeb6284faf26d/2022/04/15/682a2f73-dfb9-49a1-8a09-4a789ecb3c7d/apple-logo-2022-332.jpg?auto=webp&fit=crop&height=630&width=1200",
+        "publishedAt": "2022-05-30T13:49:35Z",
+        "content": "Apple is expected to show off iOS 16 at its annual WWDC developer confab starting June 6. Among the new features coming to the next version of Apple's mobile operating system are major enhancements t… [+738 chars]"
+        },
+       {
+        "source": {
+        "id": null,
+        "name": "CNET"
+        },
+        "author": "Alison DeNisco Rayome",
+        "title": "Windows 11: What We Wanted but Didn't Get - CNET",
+        "description": "There are eight features missing from Microsoft's latest OS that we hoped would be included.",
+        "url": "https://www.cnet.com/tech/computing/windows-11-what-we-wanted-but-didnt-get/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/bfd284cc3ca1cdbd7382b41c1d5dde88734ae9e3/2021/06/25/d4210698-7673-45ec-a212-f64b7afa2f93/windows-11-laptops.jpg?auto=webp&fit=crop&height=630&width=1200",
+        "publishedAt": "2022-05-30T11:00:00Z",
+        "content": "Windows 11, Microsoft's newest operating system, flaunts some worthy upgrades compared with Windows 10. The new OS sports a redesigned interface with a more Mac-like aesthetic and some useful new fea… [+3943 chars]"
+        },
+       {
+        "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+        },
+        "author": "hrobertson@businessinsider.com (Harry Robertson)",
+        "title": "Tesla short sellers have made $8.2 billion betting against Elon Musk's company this year as tech stocks crashed",
+        "description": "Short sellers have made $63 billion betting against Nasdaq 100 companies in a brutal year for the stock index.",
+        "url": "https://markets.businessinsider.com/news/stocks/tesla-short-sellers-elon-musk-nasdaq-tech-stock-market-crash-2022-5",
+        "urlToImage": "https://i.insider.com/6294d548f099c4001956c7fb?width=1200&format=jpeg",
+        "publishedAt": "2022-05-30T15:06:23Z",
+        "content": "Short-sellers have made around $8.2 billion betting against Elon Musk's Tesla in 2022 so far, after years of bruising losses when the electric-vehicle maker's stock confounded expectations.\r\nThey've … [+2381 chars]"
+        },
+       {
+        "source": {
+        "id": null,
+        "name": "Design-milk.com"
+        },
+        "author": "Gregory Han",
+        "title": "Standing Room Only: KEF LS60 Wireless All-in-One Floor Speakers Are a Hi-Fi Dream",
+        "description": "These captivatingly slim $7,000 all-in-one floor speakers connect to nearly any source and stream from just about every streaming service.",
+        "url": "https://design-milk.com/kef-ls60-wireless-floor-speakers/",
+        "urlToImage": "https://design-milk.com/images/2022/05/LS60-Wireless_landscape_Royal-Blue.jpg",
+        "publishedAt": "2022-05-30T14:00:50Z",
+        "content": "It’s hard to pinpoint when floor standing speakers fell out favor amongst the general public as an aspirational piece of home audio, but it is inarguably a category that has faded into the background… [+3265 chars]"
+        },
+       {
+        "source": {
+        "id": null,
+        "name": "Hipertextual"
+        },
+        "author": "Hipertextual (Redacción)",
+        "title": "Las mejores ofertas para arrancar la semana: AirFryer de Xiaomi, Apple Watch, AirPods y mucho más",
+        "description": "Si estabas esperando una nueva oleada de grandes ofertas de Amazon para hacerte con los mejores productos al mejor precio, estás de enhorabuena. Desde los geniales AirPods de Apple en sus tres versiones más recientes, hasta relojes inteligentes pasando por la…",
+        "url": "https://hipertextual.com/2022/05/mejores-ofertas",
+        "urlToImage": "https://hipertextual.com/wp-content/uploads/2022/03/1366_2000.jpg",
+        "publishedAt": "2022-05-30T08:29:48Z",
+        "content": "Si estabas esperando una nueva oleada de grandes ofertas de Amazon para hacerte con los mejores productos al mejor precio, estás de enhorabuena. Desde los geniales AirPods de Apple en sus tres versio… [+4038 chars]"
+        },
+       {
+        "source": {
+        "id": null,
+        "name": "Hipertextual"
+        },
+        "author": "Rubén Chicharro",
+        "title": "Xiaomi F2: sin Android TV, pero con el mismo precio atractivo de siempre",
+        "description": "Xiaomi ha decidido dar un pequeño cambio de rumbo en su gama de Smart TV con tres nuevos integrantes en su catálogo: las Xiaomi F2. Estos nuevos televisores prescinden de Android TV, el sistema operativo de Google que integran todos los modelos de la marca pr…",
+        "url": "https://hipertextual.com/2022/05/xiaomi-f2-tv-fireos",
+        "urlToImage": "https://hipertextual.com/wp-content/uploads/2022/05/xiaomi-tv-f2-01.jpg",
+        "publishedAt": "2022-05-30T08:53:27Z",
+        "content": "Xiaomi ha decidido dar un pequeño cambio de rumbo en su gama de Smart TV con tres nuevos integrantes en su catálogo: las Xiaomi F2. Estos nuevos televisores prescinden de Android TV, el sistema opera… [+3502 chars]"
+        },
+       {
+        "source": {
+        "id": null,
+        "name": "Hipertextual"
+        },
+        "author": "Mónica Redondo",
+        "title": "El fundador de WeWork ha vuelto con una empresa de criptomonedas que no sirve para nad",
+        "description": "Adam Neumann ha vuelto y no exento de polémica. Después del auge y caída de WeWork -una historia que podemos ver en la serie We Crashed de Apple TV+- el emprendedor quiere una segunda oportunidad. Esta vez con el lanzamiento de una empresa de criptomonedas co…",
+        "url": "https://hipertextual.com/2022/05/el-fundador-de-wework-ha-vuelto-con-una-empresa-de-criptomonedas-que-nadie-entiende",
+        "urlToImage": "https://i0.wp.com/hipertextual.com/wp-content/uploads/2022/05/34679798345_2f193c1175_b.jpeg?fit=1024%2C684&quality=50&strip=all&ssl=1",
+        "publishedAt": "2022-05-30T03:01:00Z",
+        "content": "Adam Neumann ha vuelto y no exento de polémica. Después del auge y caída de WeWork -una historia que podemos ver en la serie We Crashed de Apple TV+- el emprendedor quiere una segunda oportunidad. Es… [+6162 chars]"
+        },
+       {
+        "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+        },
+        "author": "Ivan Mehta",
+        "title": "Does your USB-C cable transfer data AND power? Your OS should tell you",
+        "description": "The USB-C standard has been long touted as a “one port to rule ‘em all” solution. Sure, it’s universal in the sense of the shape of the port. But the capabilities of a USB-C port and cable can vary widely. Last month, I wrote about why it’s so hard to differe…",
+        "url": "https://thenextweb.com/news/usb-c-os-chrome-os-windows-mac-analysis",
+        "urlToImage": "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2FUSB-C-OS.jpg&signature=6047967c0713c3810e9969f45839192e",
+        "publishedAt": "2022-05-30T12:54:32Z",
+        "content": "The USB-C standard has been long touted as a one port to rule em all solution. Sure, its universal in the sense of the shape of the port. But the capabilities of a USB-C port and cable can vary widel… [+3834 chars]"
+        },
+       {
+        "source": {
+        "id": null,
+        "name": "Hackaday"
+        },
+        "author": "Arsenijs Picugins",
+        "title": "Check Your Mailbox Using The AirTag Infrastructure",
+        "description": "When a company creates an infrastructure of devices, we sometimes subvert this infrastructure and use it to solve tricky problems. For example, here’s a question that many a hacker has …read more",
+        "url": "https://hackaday.com/2022/05/30/check-your-mailbox-using-the-airtag-infrastructure/",
+        "urlToImage": "https://hackaday.com/wp-content/uploads/2022/05/hadimg_faketag_mailbox_feat.jpg",
+        "publishedAt": "2022-05-30T11:00:00Z",
+        "content": "When a company creates an infrastructure of devices, we sometimes subvert this infrastructure and use it to solve tricky problems. For example, here’s a question that many a hacker has pondered – how… [+1711 chars]"
+        },
+       {
+        "source": {
+        "id": null,
+        "name": "Boing Boing"
+        },
+        "author": "Boing Boing's Shop",
+        "title": "10 Fantastic Sales for Memorial Day 2022 ￼",
+        "description": "Love gadgets and the great outdoors? With Memorial Day sales and the summer season on the horizon, Boing Boing readers can pick up some shiny new tech to tinker with or even games to get the whole family outside. The end of May typically heralds countless dea…",
+        "url": "https://boingboing.net/2022/05/29/10-fantastic-sales-for-memorial-day-2022-%ef%bf%bc.html",
+        "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2022/05/nettie-1.jpg?fit=1200%2C1200&ssl=1",
+        "publishedAt": "2022-05-30T00:00:00Z",
+        "content": "Love gadgets and the great outdoors? With Memorial Day sales and the summer season on the horizon, Boing Boing readers can pick up some shiny new tech to tinker with or even games to get the whole fa… [+4752 chars]"
+        },
+       {
+        "source": {
+        "id": null,
+        "name": "Xataka.com"
+        },
+        "author": "Javier Pastor",
+        "title": "En unos días conoceremos iOS 16 y iPadOS 16: prometen mejoras que llevábamos años esperando",
+        "description": "En unos días se celebra al WWDC de Apple, y los rumores sobre las novedades que se ofrecerán sistemas operativos como iOS 16 y iPadOS 16 se van acumulando. Algunos de esos rumores son especialmente notables.\n<!-- BREAK 1 -->\nDe hecho, se habla ya de varias no…",
+        "url": "https://www.xataka.com/moviles/unos-dias-conoceremos-ios-16-ipados-16-prometen-mejoras-que-llevabamos-anos-esperando",
+        "urlToImage": "https://i.blogs.es/024cf1/ios16/840_560.jpeg",
+        "publishedAt": "2022-05-30T11:00:35Z",
+        "content": "En unos días se celebra al WWDC de Apple, y los rumores sobre las novedades que se ofrecerán sistemas operativos como iOS 16 y iPadOS 16 se van acumulando. Algunos de esos rumores son especialmente n… [+2724 chars]"
+        },
+       {
+        "source": {
+        "id": null,
+        "name": "Xataka.com"
+        },
+        "author": "Javier Pastor",
+        "title": "DuckDuckGo no era tan privado: un acuerdo secreto con Microsoft empaña la imagen del proyecto",
+        "description": "Llevamos años teniendo muy claro que empresas como Google o Microsoft recolectan un buen montón de datos cuando usamos sus buscadores en internet. Viven en buena parte de ello, después de todo, así que cuando surgió una alternativa como DuckDuckGo enfocada a …",
+        "url": "https://www.xataka.com/servicios/duckduckgo-no-era-privado-acuerdo-secreto-microsoft-empana-imagen-este-proyecto",
+        "urlToImage": "https://i.blogs.es/b94112/dawit-fbmeunyw1yg-unsplash/840_560.jpeg",
+        "publishedAt": "2022-05-30T13:00:29Z",
+        "content": "Llevamos años teniendo muy claro que empresas como Google o Microsoft recolectan un buen montón de datos cuando usamos sus buscadores en internet. Viven en buena parte de ello, después de todo, así q… [+4123 chars]"
+        },
+       {
+        "source": {
+        "id": null,
+        "name": "Xataka.com"
+        },
+        "author": "Jose García",
+        "title": "Sony LinkBuds S, análisis: ser los auriculares TWS más cómodos que hemos probado no es su única virtud",
+        "description": "Sony se ha embarcado en una nueva aventura con su gama LinkBuds. Hace algunos meses la empresa nipona nos sorprendió con los Sony LinkBuds, unos peculiares auriculares TWS con un driver en forma de donut pensados para escuchar música sin despistarnos de nuest…",
+        "url": "https://www.xataka.com/analisis/sony-linkbuds-s-analisis-caracteristicas-precio-especificaciones",
+        "urlToImage": "https://i.blogs.es/6c5426/sony-linkbuds-s-15-/840_560.jpeg",
+        "publishedAt": "2022-05-30T14:00:31Z",
+        "content": "Sony se ha embarcado en una nueva aventura con su gama LinkBuds. Hace algunos meses la empresa nipona nos sorprendió con los Sony LinkBuds, unos peculiares auriculares TWS con un driver en forma de d… [+16443 chars]"
+        },
+       {
+        "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+        },
+        "author": "Reviewed, Jon Winkler and Elsie Boskamp, Reviewed",
+        "title": "Apple AirPods Pro are $69 off at Amazon right now—shop this Memorial Day deal today",
+        "description": "Shop this epic Memorial Day deal on the Apple AirPods Pro wireless earbuds, available for $69 off at Amazon today.",
+        "url": "https://www.usatoday.com/story/money/reviewed/2022/05/30/apple-airpods-pro-amazon-memorial-day-sale/9992397002/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2022/05/30/USAT/db23bb79-4b91-4fb0-ad08-7023e0cd855f-airpods-amazon-memorial-day.jpg?auto=webp&crop=2987,1681,x12,y0&format=pjpg&width=1200",
+        "publishedAt": "2022-05-30T13:23:07Z",
+        "content": "— Recommendations are independently chosen by Reviewed’s editors. Purchases you make through our links may earn us a commission.\r\nWith Memorial Day sales and deals in full swing, we found one of the … [+2200 chars]"
+        },
+       {
+        "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+        },
+        "author": "USA TODAY, Karen Weintraub, USA TODAY",
+        "title": "High school scientists-in-training take on the Big Apple as urban virus hunters",
+        "description": "New York City Virus Hunters program teaches teenagers about the natural world of their urban metropolis and prepares them for a career in science.",
+        "url": "https://www.usatoday.com/story/news/health/2022/05/30/new-york-city-virus-hunters-program-opens-students-science-career/7381350001/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2022/04/20/USAT/d7bc8da4-8d95-4e93-8786-7a4e27ae3b32-009_XXX_CP_Pigeons_1573.JPG.JPG?auto=webp&crop=5615,3159,x0,y285&format=pjpg&width=1200",
+        "publishedAt": "2022-05-30T09:01:26Z",
+        "content": "NEW YORK CITY — Not surprisingly, it doesn't take long to find fresh bird poop in Central Park.\r\nOn a recent spring day, three high schoolers searched for only a few minutes before finding their firs… [+5492 chars]"
+        },
+       {
+        "source": {
+        "id": null,
+        "name": "Cool Hunting"
+        },
+        "author": "CH Editors",
+        "title": "Summer Hair and Skincare Essentials",
+        "description": "Refreshing serums, nourishing lotions with sun protection, frizz-foiling masks and more For many people, slathering on oils and lotions in the colder months likely feels more finessed than weighing down one’s skin and hair in the sweltering summer heat. Still…",
+        "url": "http://coolhunting.com/style/summer-hair-and-skincare-essentials/",
+        "urlToImage": "https://i0.wp.com/coolhunting.com/wp-content/uploads/2022/05/wary-meyers-hero.jpg?fit=1093%2C851&ssl=1",
+        "publishedAt": "2022-05-30T11:55:30Z",
+        "content": "Refreshing serums, nourishing lotions with sun protection, frizz-foiling masks and more\nFor many people, slathering on oils and lotions in the colder months likely feels more finessed than weighing d… [+5142 chars]"
+        }
+        ]
+    }
