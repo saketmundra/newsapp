@@ -56,7 +56,7 @@ export class News extends Component {
     render() {
         return (
             <div className="container">
-                <div className="text-center d-flex justify-content-between " style={{ fontSize: "45px" }}>Top Headlines{this.state.category==="general"?"":"-"+(this.state.category).charAt(0).toUpperCase()+(this.state.category).slice(1)}
+                <div className="text-center text-white d-flex justify-content-between " style={{ fontSize: "45px" }}>Top Headlines{this.state.category==="general"?"":"-"+(this.state.category).charAt(0).toUpperCase()+(this.state.category).slice(1)}
                     <div className="dropdown">
                         <button className="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             {this.state.category==="general"?"Category":(this.state.category).charAt(0).toUpperCase()+(this.state.category).slice(1)}
