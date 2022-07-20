@@ -14,14 +14,14 @@ export class News extends Component {
         }
     }
     async componentDidMount() {
-        let url = `https://newsapi.org/v2/top-headlines?country=us&category=${this.state.category}&apiKey=fe559ce1b1554add83a0d249a051fd66`
+        let url = `https://newsapi.org/v2/top-headlines?country=in&category=${this.state.category}&apiKey=fe559ce1b1554add83a0d249a051fd66`
         let data = await fetch(url);
         let parsedData = await data.json();
         this.setState({ articles: parsedData.articles })
 
     }
     handlePrevClick = async () => {
-        let url = `https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=fe559ce1b1554add83a0d249a051fd66&page=${this.state.page - 1}`
+        let url = `https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=fe559ce1b1554add83a0d249a051fd66&page=${this.state.page - 1}`
         let data = await fetch(url);
         let parsedData = await data.json();
         this.setState({
@@ -30,7 +30,7 @@ export class News extends Component {
         })
     }
     handleNextClick = async () => {
-        let url = `https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=fe559ce1b1554add83a0d249a051fd66&page=${this.state.page + 1}`
+        let url = `https://newsapi.org/v2/top-headlines?country=in&category=business&apiKey=fe559ce1b1554add83a0d249a051fd66&page=${this.state.page + 1}`
         let data = await fetch(url);
         let parsedData = await data.json();
         this.setState({
@@ -40,7 +40,7 @@ export class News extends Component {
 
     }
     changecategory = async (e) => {
-        let url = `https://newsapi.org/v2/top-headlines?country=us&category=${e}&apiKey=fe559ce1b1554add83a0d249a051fd66`
+        let url = `https://newsapi.org/v2/top-headlines?country=in&category=${e}&apiKey=fe559ce1b1554add83a0d249a051fd66`
         let data = await fetch(url);
         let parsedData = await data.json();
         this.setState({
